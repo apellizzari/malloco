@@ -1,4 +1,0 @@
-malloco
-=======
-
-repositorio proyecto malloco
